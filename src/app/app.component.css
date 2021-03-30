@@ -1,0 +1,6 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+#nav li {
+    display: inline;
+    padding-right: 50px;
+    padding-left: 60px;
+  }
